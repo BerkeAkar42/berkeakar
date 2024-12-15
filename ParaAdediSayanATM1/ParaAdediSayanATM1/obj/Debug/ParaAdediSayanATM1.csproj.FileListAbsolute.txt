@@ -1,0 +1,14 @@
+C:\Users\Berke\source\repos\ParaAdediSayanATM1\ParaAdediSayanATM1\bin\Debug\ParaAdediSayanATM1.exe.config
+C:\Users\Berke\source\repos\ParaAdediSayanATM1\ParaAdediSayanATM1\bin\Debug\ParaAdediSayanATM1.exe
+C:\Users\Berke\source\repos\ParaAdediSayanATM1\ParaAdediSayanATM1\bin\Debug\ParaAdediSayanATM1.pdb
+C:\Users\Berke\source\repos\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.exe
+C:\Users\Berke\source\repos\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.pdb
+C:\Users\Berke\source\repos\Algoritma\Ödev\VizeSinaviSoru4Odevi\Hazır\ParaAdediSayanATM1\ParaAdediSayanATM1\bin\Debug\ParaAdediSayanATM1.exe.config
+C:\Users\Berke\source\repos\Algoritma\Ödev\VizeSinaviSoru4Odevi\Hazır\ParaAdediSayanATM1\ParaAdediSayanATM1\bin\Debug\ParaAdediSayanATM1.exe
+C:\Users\Berke\source\repos\Algoritma\Ödev\VizeSinaviSoru4Odevi\Hazır\ParaAdediSayanATM1\ParaAdediSayanATM1\bin\Debug\ParaAdediSayanATM1.pdb
+C:\Users\Berke\source\repos\Algoritma\Ödev\VizeSinaviSoru4Odevi\Hazır\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\Algoritma\Ödev\VizeSinaviSoru4Odevi\Hazır\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\Algoritma\Ödev\VizeSinaviSoru4Odevi\Hazır\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.exe
+C:\Users\Berke\source\repos\Algoritma\Ödev\VizeSinaviSoru4Odevi\Hazır\ParaAdediSayanATM1\ParaAdediSayanATM1\obj\Debug\ParaAdediSayanATM1.pdb
